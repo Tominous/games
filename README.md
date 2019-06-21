@@ -369,6 +369,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 ## Sandbox
 
+* [Hytale](https://hytale.com/) - Improved and newer version of Minecraft!
 * [Blackvoxel](https://github.com/Blackvoxel/Blackvoxel) - Sandbox game based on a molecular voxel interaction engine.
 * [Craft](https://github.com/fogleman/Craft) - Simple Minecraft clone written in C using modern OpenGL.
 * [Endless Sky](https://github.com/endless-sky/endless-sky) - Space trading and combat game similar to the classic Escape Velocity series.
@@ -438,7 +439,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [PuzzleGame](https://github.com/chuvidi2003/PuzzleGame) - Slider puzzle game implementation created with Cocos2d for Android.
 * [Wannabe Tempest](https://github.com/awlzac/wbta) - Clone of 80's coin-op arcade game Tempest(80's arcade game).
 
-## IOS
+## Apple IOS
 
 * [Bat Loves Bugs](https://github.com/xyclos/BatLovesBugs) - Arcade game about a bug-craving bat.
 * [Bridges](https://github.com/zgrossbart/bridges) - Puzzle game with bridges, houses, tolls, and subways for iOS.
